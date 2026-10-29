@@ -109,7 +109,7 @@ body{font:15px/1.5 Arial,sans-serif;background:#fff;color:#242424;max-width:760p
 h1{font-size:27px;margin:0 0 3px}
 a{color:#b95a12}
 article{border-bottom:1px solid #ddd;padding:14px 0 13px}
-a.blog{display:inline-block;font-size:19px;line-height:1.3;font-weight:700}
+a.blog{display:inline-block;font-size:19px;line-height:1.3;font-weight:700;color:#242424}
 h2{font-size:16px;line-height:1.35;margin:4px 0;font-weight:600}
 time,small{color:#666;font-size:12px}
 p{margin:5px 0 0;font-size:14px;line-height:1.45}
