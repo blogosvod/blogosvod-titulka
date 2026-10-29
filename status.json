@@ -1,4 +1,361 @@
 {
-  "successful": 10,
-  "failed": []
+  "successful": 352,
+  "failed": [
+    {
+      "name": "Rowdy",
+      "url": "https://rowdy.blokuje.cz/"
+    },
+    {
+      "name": "Krutomýval",
+      "url": "https://www.krutomyval.com/"
+    },
+    {
+      "name": "Liška H. Ryška",
+      "url": "https://liska.blokuje.cz/"
+    },
+    {
+      "name": "Wien na cestách",
+      "url": "http://wien.pise.cz/"
+    },
+    {
+      "name": "Rýpání do škeble",
+      "url": "http://rulisa.mzf.cz/"
+    },
+    {
+      "name": "Moravská Ruža",
+      "url": "https://moravskaruza.blogspot.com/"
+    },
+    {
+      "name": "Chinin",
+      "url": "http://chinin.olmer.cz/"
+    },
+    {
+      "name": "Rozvedená bloguje",
+      "url": "https://rozvedena.blokuje.cz/"
+    },
+    {
+      "name": "a v o c o d e",
+      "url": "https://avocode.blokuje.cz/"
+    },
+    {
+      "name": "Ad Astra",
+      "url": "https://maglaiz.cz/"
+    },
+    {
+      "name": "METTEORWA",
+      "url": "http://metteorwa.cz/"
+    },
+    {
+      "name": "Kerria a její svět",
+      "url": "http://kerria.pise.cz/"
+    },
+    {
+      "name": "Galerie aTeo.cz",
+      "url": "http://ateo.cz/texty/"
+    },
+    {
+      "name": "Axina",
+      "url": "https://www.axina.cz/blog/"
+    },
+    {
+      "name": "Visutá zahrada",
+      "url": "https://visutazahrada.blogspot.com/"
+    },
+    {
+      "name": "Deník farářky",
+      "url": "https://www.denikfararky.cz/"
+    },
+    {
+      "name": "Listy pohybu",
+      "url": "https://listypohybu.cz/"
+    },
+    {
+      "name": "laurentheinvincible",
+      "url": "https://www.skocvesmirtechyti.com/"
+    },
+    {
+      "name": "Diviznačka",
+      "url": "https://diviznacka.blogspot.com/"
+    },
+    {
+      "name": "(Ještě) bezpečnější útočiště",
+      "url": "https://aliceingarden.livejournal.com/"
+    },
+    {
+      "name": "brodita",
+      "url": "https://www.brodita.cz/blog/"
+    },
+    {
+      "name": "černá ovec",
+      "url": "https://m.cernaovec.cz/"
+    },
+    {
+      "name": "Cílkoviny",
+      "url": "http://www.vilemwalter.cz/cilek.htm"
+    },
+    {
+      "name": "La Trine",
+      "url": "https://www.latrine.cz/"
+    },
+    {
+      "name": "Ereandil Aleanath",
+      "url": "http://sayonara.pise.cz/"
+    },
+    {
+      "name": "Amor Vacui",
+      "url": "https://kojot.name/"
+    },
+    {
+      "name": "Lvice v České republice",
+      "url": "http://lvice.pise.cz/"
+    },
+    {
+      "name": "jemně a pozorně",
+      "url": "https://www.tumblr.com/maitrime"
+    },
+    {
+      "name": "Raduš píše",
+      "url": "http://radus.pise.cz/"
+    },
+    {
+      "name": "Spotter blog",
+      "url": "https://spotter.sk/"
+    },
+    {
+      "name": "Šimůnci na netu",
+      "url": "http://www.simunci.net/"
+    },
+    {
+      "name": "Wuwejův zápisník",
+      "url": "https://blog.wuwej.net/"
+    },
+    {
+      "name": "Tragikomický život Strašilčin",
+      "url": "http://atraktivnistrasilka.pise.cz/"
+    },
+    {
+      "name": "Fluffy Vegan",
+      "url": "http://fluffy-vegan.pise.cz/"
+    },
+    {
+      "name": "Kiwizeny.bloger.cz",
+      "url": "http://kiwizeny.bloger.cz/"
+    },
+    {
+      "name": "My diary",
+      "url": "http://orchidejka.pise.cz/"
+    },
+    {
+      "name": "Eithné píše",
+      "url": "https://eithne.pise.cz/"
+    },
+    {
+      "name": "OD VŠEHO TROCHU",
+      "url": "https://duchjara1.blogspot.com/"
+    },
+    {
+      "name": "supiceblog.cz",
+      "url": "http://supiceblog.cz/"
+    },
+    {
+      "name": "Hančiny Sladkosti.net",
+      "url": "https://www.sladkosti.net/"
+    },
+    {
+      "name": "Blog - Expedice Světu vstříc",
+      "url": "https://www.svetuvstric.cz/blog"
+    },
+    {
+      "name": "Abych nezapomněla...",
+      "url": "http://abych-nezapomnela.blogspot.com/"
+    },
+    {
+      "name": "*** Mirkův svět ***",
+      "url": "https://jidlo.biz/blog/"
+    },
+    {
+      "name": "Moje psaní",
+      "url": "https://hrachajdice.estranky.cz/"
+    },
+    {
+      "name": "Hele! Hele? Hele...",
+      "url": "http://helehelehele.blogspot.com/"
+    },
+    {
+      "name": "Petr Krest",
+      "url": "https://www.petrkrest.com/"
+    },
+    {
+      "name": "Za málem",
+      "url": "https://www.zamalem.cz/"
+    },
+    {
+      "name": "Vítá vás blog starej Latryny",
+      "url": "https://latrynablog.blogspot.com/"
+    },
+    {
+      "name": "Kouzelná vařečka",
+      "url": "http://rurbanczykova.blogspot.com/"
+    },
+    {
+      "name": "Auryn Book - spisovatelský deníček",
+      "url": "https://aurynbook.blogspot.com/"
+    },
+    {
+      "name": "V Paříži poprvé",
+      "url": "https://v-parizi-poprve.blogspot.com/"
+    },
+    {
+      "name": "Můj filmový svět",
+      "url": "http://muj-filmovy-svet.pise.cz/"
+    },
+    {
+      "name": "Blog Jiřího Kýra",
+      "url": "http://jk.pise.cz/"
+    },
+    {
+      "name": "jaminau",
+      "url": "http://jaminau.elka.cz/"
+    },
+    {
+      "name": "LOGOUT / OK1ZXS - blog",
+      "url": "http://i-logout.cz/blog"
+    },
+    {
+      "name": "Lokutus.cz",
+      "url": "https://lokutus.cz/"
+    },
+    {
+      "name": "Literární soutěž Františka Halase",
+      "url": "https://lsfh.webnode.cz/"
+    },
+    {
+      "name": "učitelský zápisník",
+      "url": "http://luxuska.blogspot.com/"
+    },
+    {
+      "name": "em tečka pé tečka",
+      "url": "https://blog.matejcik.cz/"
+    },
+    {
+      "name": "Mike82",
+      "url": "http://www.mike82.cz/"
+    },
+    {
+      "name": "Moravák bloguje-Moravské Blogování",
+      "url": "https://moravak.pise.cz/"
+    },
+    {
+      "name": "Neviditelný čert",
+      "url": "https://www.neviditelnycert.cz/blog/"
+    },
+    {
+      "name": "Tasslovice",
+      "url": "https://tasselhof.com/"
+    },
+    {
+      "name": "Tenkoviny",
+      "url": "http://tenka.bloger.cz/"
+    },
+    {
+      "name": "Tribun",
+      "url": "https://tribun.red/"
+    },
+    {
+      "name": "Jakub Achrer – Zahrada",
+      "url": "http://zahrada.stezkypohanstvi.cz/"
+    },
+    {
+      "name": "Pižlíkovo - Putování",
+      "url": "https://blogy.i60.cz/pizlikovo-putovani"
+    },
+    {
+      "name": "Praha Pavla Švejnara",
+      "url": "https://pafoto.estranky.cz/"
+    },
+    {
+      "name": "Toulky",
+      "url": "https://alena.ilcik.cz/index.php"
+    },
+    {
+      "name": "Jára M., píšící, bdící",
+      "url": "http://jarmik.pise.cz/"
+    },
+    {
+      "name": "Můj svět",
+      "url": "http://damn-girl.pise.cz/"
+    },
+    {
+      "name": "Hrozně tajný deník",
+      "url": "http://hroznetajne.pise.cz/"
+    },
+    {
+      "name": "Acta non verba",
+      "url": "http://www.jancahala.cz/"
+    },
+    {
+      "name": "My fantasy world",
+      "url": "http://myfantasyworld.pise.cz/"
+    },
+    {
+      "name": "Moody time",
+      "url": "https://www.moodytime.cz/"
+    },
+    {
+      "name": "rebarbora II.",
+      "url": "http://rebarbora2.pise.cz/"
+    },
+    {
+      "name": "Tryskomyšáci v akci",
+      "url": "http://sargo.pise.cz/"
+    },
+    {
+      "name": "SmileThess",
+      "url": "https://smilethess.blogspot.com/"
+    },
+    {
+      "name": "Tereza's journal",
+      "url": "https://terezasjournal.blogspot.com/"
+    },
+    {
+      "name": "Tlapkou psáno",
+      "url": "http://tlapka.pise.cz/"
+    },
+    {
+      "name": "Vlastin blog",
+      "url": "https://turtlelike.com/"
+    },
+    {
+      "name": "Endure. In enduring grow strong.",
+      "url": "http://zlomenymec.pise.cz/"
+    },
+    {
+      "name": "jaUzFaktNevim.cz",
+      "url": "https://jauzfaktnevim.cz/"
+    },
+    {
+      "name": "Orvokki's blog",
+      "url": "https://orvokki.sk/"
+    },
+    {
+      "name": "Berry",
+      "url": "https://berry.commixture.com/"
+    },
+    {
+      "name": "Zahrada, květiny a jiné radosti",
+      "url": "https://"
+    },
+    {
+      "name": "padenakrku",
+      "url": "https://www.padenakrku.cz/"
+    },
+    {
+      "name": "zlomenymec.pise",
+      "url": "https://https://zlomenymec.blogspot.com/"
+    },
+    {
+      "name": "strasilkapise.cz",
+      "url": "https://strasilkapise.cz/#"
+    }
+  ]
 }
