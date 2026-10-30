@@ -21,6 +21,12 @@ try:
         data = response.read(2_000_000)
 
     print("Staženo bajtů:", len(data))
+    
+    print("\n--- ZAČÁTEK ODPOVĚDI SERVERU ---")
+    print(data[:1500].decode("utf-8", errors="replace"))
+    print("--- KONEC UKÁZKY ---\n")
+    print("Je to RSS?", data.lstrip().startswith(b"<?xml"))
+
 
     root = ET.fromstring(data)
     print("Kořen XML:", root.tag)
