@@ -1,5 +1,5 @@
 {
-  "successful": 349,
+  "successful": 347,
   "failed": [
     {
       "name": "Rowdy",
@@ -8,6 +8,10 @@
     {
       "name": "Krutomýval",
       "url": "https://www.krutomyval.com/"
+    },
+    {
+      "name": "Liška H. Ryška",
+      "url": "https://liska.blokuje.cz/"
     },
     {
       "name": "Ostrovanka bloguje",
@@ -124,6 +128,10 @@
     {
       "name": "Šimůnci na netu",
       "url": "http://www.simunci.net/"
+    },
+    {
+      "name": "Vhrsti",
+      "url": "https://www.vhrsti.cz/"
     },
     {
       "name": "Wuwejův zápisník",
