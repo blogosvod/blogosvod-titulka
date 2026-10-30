@@ -1,5 +1,5 @@
 {
-  "successful": 352,
+  "successful": 355,
   "failed": [
     {
       "name": "Rowdy",
@@ -42,10 +42,6 @@
       "url": "https://maglaiz.cz/"
     },
     {
-      "name": "METTEORWA",
-      "url": "http://metteorwa.cz/"
-    },
-    {
       "name": "Kerria a její svět",
       "url": "http://kerria.pise.cz/"
     },
@@ -84,10 +80,6 @@
     {
       "name": "brodita",
       "url": "https://www.brodita.cz/blog/"
-    },
-    {
-      "name": "černá ovec",
-      "url": "https://m.cernaovec.cz/"
     },
     {
       "name": "Cílkoviny",
@@ -336,10 +328,6 @@
     {
       "name": "Orvokki's blog",
       "url": "https://orvokki.sk/"
-    },
-    {
-      "name": "Berry",
-      "url": "https://berry.commixture.com/"
     },
     {
       "name": "Zahrada, květiny a jiné radosti",
