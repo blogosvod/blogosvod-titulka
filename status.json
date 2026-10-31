@@ -1,5 +1,5 @@
 {
-  "successful": 354,
+  "successful": 355,
   "failed": [
     {
       "name": "Rowdy",
@@ -116,10 +116,6 @@
     {
       "name": "Šimůnci na netu",
       "url": "http://www.simunci.net/"
-    },
-    {
-      "name": "Vhrsti",
-      "url": "https://www.vhrsti.cz/"
     },
     {
       "name": "Wuwejův zápisník",
