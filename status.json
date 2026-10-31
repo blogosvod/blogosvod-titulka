@@ -1,5 +1,5 @@
 {
-  "successful": 355,
+  "successful": 353,
   "failed": [
     {
       "name": "Rowdy",
@@ -40,6 +40,10 @@
     {
       "name": "Ad Astra",
       "url": "https://maglaiz.cz/"
+    },
+    {
+      "name": "METTEORWA",
+      "url": "http://metteorwa.cz/"
     },
     {
       "name": "Kerria a její svět",
@@ -328,6 +332,10 @@
     {
       "name": "Orvokki's blog",
       "url": "https://orvokki.sk/"
+    },
+    {
+      "name": "Berry",
+      "url": "https://berry.commixture.com/"
     },
     {
       "name": "Zahrada, květiny a jiné radosti",
