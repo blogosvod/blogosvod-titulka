@@ -1,5 +1,5 @@
 {
-  "successful": 353,
+  "successful": 346,
   "failed": [
     {
       "name": "Rowdy",
@@ -12,6 +12,14 @@
     {
       "name": "Liška H. Ryška",
       "url": "https://liska.blokuje.cz/"
+    },
+    {
+      "name": "Ostrovanka bloguje",
+      "url": "http://www.ostrovanka.cz/"
+    },
+    {
+      "name": "Sonja bloguje",
+      "url": "http://sonja.ostrovanka.cz/"
     },
     {
       "name": "Wien na cestách",
@@ -84,6 +92,10 @@
     {
       "name": "brodita",
       "url": "https://www.brodita.cz/blog/"
+    },
+    {
+      "name": "černá ovec",
+      "url": "https://m.cernaovec.cz/"
     },
     {
       "name": "Cílkoviny",
@@ -198,8 +210,20 @@
       "url": "https://aurynbook.blogspot.com/"
     },
     {
+      "name": "Píšu pro děti",
+      "url": "https://www.pisuprodeti.cz/"
+    },
+    {
       "name": "V Paříži poprvé",
       "url": "https://v-parizi-poprve.blogspot.com/"
+    },
+    {
+      "name": "Vilemínino zátiší",
+      "url": "http://www.vilemininozatisi.cz/"
+    },
+    {
+      "name": "Žijeme homemade",
+      "url": "https://www.zijemehomemade.cz/"
     },
     {
       "name": "Můj filmový svět",
@@ -208,6 +232,10 @@
     {
       "name": "Blog Jiřího Kýra",
       "url": "http://jk.pise.cz/"
+    },
+    {
+      "name": "Tichý koutek",
+      "url": "https://www.tichy-koutek.cz/"
     },
     {
       "name": "jaminau",
