@@ -1,5 +1,5 @@
 {
-  "successful": 354,
+  "successful": 355,
   "failed": [
     {
       "name": "Rowdy",
@@ -16,10 +16,6 @@
     {
       "name": "Wien na cestách",
       "url": "http://wien.pise.cz/"
-    },
-    {
-      "name": "Hastonovo",
-      "url": "https://hastonovo-blogspot-com.translate.goog/?_x_tr_sl=sk&_x_tr_tl=cs&_x_tr_hl=cs&_x_tr_pto=sc&_x_tr_sch=http"
     },
     {
       "name": "Rýpání do škeble",
