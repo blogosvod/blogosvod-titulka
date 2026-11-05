@@ -1,5 +1,5 @@
 {
-  "successful": 354,
+  "successful": 355,
   "failed": [
     {
       "name": "Rowdy",
@@ -148,10 +148,6 @@
     {
       "name": "supiceblog.cz",
       "url": "http://supiceblog.cz/"
-    },
-    {
-      "name": "Hančiny Sladkosti.net",
-      "url": "https://www.sladkosti.net/"
     },
     {
       "name": "Blog - Expedice Světu vstříc",
