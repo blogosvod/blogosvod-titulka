@@ -118,6 +118,10 @@
       "url": "http://www.simunci.net/"
     },
     {
+      "name": "Vhrsti",
+      "url": "https://www.vhrsti.cz/"
+    },
+    {
       "name": "Wuwejův zápisník",
       "url": "https://blog.wuwej.net/"
     },
@@ -348,10 +352,6 @@
     {
       "name": "strasilkapise.cz",
       "url": "https://strasilkapise.cz/#"
-    },
-    {
-      "name": "eithne.cz",
-      "url": "https://www.eithne.cz/"
     }
   ]
 }
