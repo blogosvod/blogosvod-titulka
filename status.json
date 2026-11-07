@@ -1,17 +1,9 @@
 {
-  "successful": 352,
+  "successful": 357,
   "failed": [
-    {
-      "name": "Rowdy",
-      "url": "https://rowdy.blokuje.cz/"
-    },
     {
       "name": "Krutomýval",
       "url": "https://www.krutomyval.com/"
-    },
-    {
-      "name": "Liška H. Ryška",
-      "url": "https://liska.blokuje.cz/"
     },
     {
       "name": "Wien na cestách",
@@ -30,20 +22,12 @@
       "url": "http://chinin.olmer.cz/"
     },
     {
-      "name": "Rozvedená bloguje",
-      "url": "https://rozvedena.blokuje.cz/"
-    },
-    {
       "name": "a v o c o d e",
       "url": "https://avocode.blokuje.cz/"
     },
     {
       "name": "Ad Astra",
       "url": "https://maglaiz.cz/"
-    },
-    {
-      "name": "METTEORWA",
-      "url": "http://metteorwa.cz/"
     },
     {
       "name": "Kerria a její svět",
@@ -336,10 +320,6 @@
     {
       "name": "Orvokki's blog",
       "url": "https://orvokki.sk/"
-    },
-    {
-      "name": "Berry",
-      "url": "https://berry.commixture.com/"
     },
     {
       "name": "Zahrada, květiny a jiné radosti",
