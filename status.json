@@ -1,5 +1,5 @@
 {
-  "successful": 354,
+  "successful": 351,
   "failed": [
     {
       "name": "Rowdy",
@@ -116,6 +116,10 @@
     {
       "name": "Šimůnci na netu",
       "url": "http://www.simunci.net/"
+    },
+    {
+      "name": "Vhrsti",
+      "url": "https://www.vhrsti.cz/"
     },
     {
       "name": "Wuwejův zápisník",
@@ -348,6 +352,14 @@
     {
       "name": "strasilkapise.cz",
       "url": "https://strasilkapise.cz/#"
+    },
+    {
+      "name": "eithne.cz",
+      "url": "https://www.eithne.cz/"
+    },
+    {
+      "name": "Tlapkou psáno",
+      "url": "https://tlapcin.blogspot.com/"
     }
   ]
 }
