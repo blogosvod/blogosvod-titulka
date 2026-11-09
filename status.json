@@ -1,5 +1,5 @@
 {
-  "successful": 345,
+  "successful": 346,
   "failed": [
     {
       "name": "Rowdy",
@@ -376,10 +376,6 @@
     {
       "name": "strasilkapise.cz",
       "url": "https://strasilkapise.cz/#"
-    },
-    {
-      "name": "eithne.cz",
-      "url": "https://www.eithne.cz/"
     },
     {
       "name": "Tlapkou psáno",
