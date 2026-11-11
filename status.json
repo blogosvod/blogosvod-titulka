@@ -1,5 +1,5 @@
 {
-  "successful": 352,
+  "successful": 353,
   "failed": [
     {
       "name": "Rowdy",
@@ -120,10 +120,6 @@
     {
       "name": "Wuwejův zápisník",
       "url": "https://blog.wuwej.net/"
-    },
-    {
-      "name": "Eliza - Elizabeta",
-      "url": "http://eliza-elizabeta.blogspot.com/"
     },
     {
       "name": "Tragikomický život Strašilčin",
