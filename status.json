@@ -1,5 +1,5 @@
 {
-  "successful": 352,
+  "successful": 351,
   "failed": [
     {
       "name": "Rowdy",
@@ -118,10 +118,6 @@
       "url": "http://www.simunci.net/"
     },
     {
-      "name": "Vhrsti",
-      "url": "https://www.vhrsti.cz/"
-    },
-    {
       "name": "Wuwejův zápisník",
       "url": "https://blog.wuwej.net/"
     },
@@ -146,8 +142,16 @@
       "url": "https://eithne.pise.cz/"
     },
     {
+      "name": "Střípky ze života",
+      "url": "https://fotomarijakes.blogspot.com/"
+    },
+    {
       "name": "OD VŠEHO TROCHU",
       "url": "https://duchjara1.blogspot.com/"
+    },
+    {
+      "name": "Sincerely Helena",
+      "url": "http://sincerehelena.blogspot.com/"
     },
     {
       "name": "supiceblog.cz",
