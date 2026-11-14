@@ -1,5 +1,5 @@
 {
-  "successful": 353,
+  "successful": 352,
   "failed": [
     {
       "name": "Rowdy",
@@ -40,6 +40,10 @@
     {
       "name": "Ad Astra",
       "url": "https://maglaiz.cz/"
+    },
+    {
+      "name": "METTEORWA",
+      "url": "http://metteorwa.cz/"
     },
     {
       "name": "Kerria a její svět",
@@ -334,6 +338,10 @@
       "url": "https://orvokki.sk/"
     },
     {
+      "name": "Berry",
+      "url": "https://berry.commixture.com/"
+    },
+    {
       "name": "Zahrada, květiny a jiné radosti",
       "url": "https://"
     },
@@ -348,10 +356,6 @@
     {
       "name": "strasilkapise.cz",
       "url": "https://strasilkapise.cz/#"
-    },
-    {
-      "name": "Tlapkou psáno",
-      "url": "https://tlapcin.blogspot.com/"
     }
   ]
 }
