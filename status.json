@@ -1,5 +1,5 @@
 {
-  "successful": 353,
+  "successful": 351,
   "failed": [
     {
       "name": "Rowdy",
@@ -16,10 +16,6 @@
     {
       "name": "Wien na cestách",
       "url": "http://wien.pise.cz/"
-    },
-    {
-      "name": "Hastonovo",
-      "url": "https://hastonovo-blogspot-com.translate.goog/?_x_tr_sl=sk&_x_tr_tl=cs&_x_tr_hl=cs&_x_tr_pto=sc&_x_tr_sch=http"
     },
     {
       "name": "Rýpání do škeble",
@@ -44,6 +40,10 @@
     {
       "name": "Ad Astra",
       "url": "https://maglaiz.cz/"
+    },
+    {
+      "name": "METTEORWA",
+      "url": "http://metteorwa.cz/"
     },
     {
       "name": "Kerria a její svět",
@@ -152,6 +152,10 @@
     {
       "name": "supiceblog.cz",
       "url": "http://supiceblog.cz/"
+    },
+    {
+      "name": "Hančiny Sladkosti.net",
+      "url": "https://www.sladkosti.net/"
     },
     {
       "name": "Blog - Expedice Světu vstříc",
@@ -332,6 +336,10 @@
     {
       "name": "Orvokki's blog",
       "url": "https://orvokki.sk/"
+    },
+    {
+      "name": "Berry",
+      "url": "https://berry.commixture.com/"
     },
     {
       "name": "Zahrada, květiny a jiné radosti",
