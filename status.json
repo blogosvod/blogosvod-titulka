@@ -1,5 +1,5 @@
 {
-  "successful": 353,
+  "successful": 354,
   "failed": [
     {
       "name": "Rowdy",
@@ -40,10 +40,6 @@
     {
       "name": "Ad Astra",
       "url": "https://maglaiz.cz/"
-    },
-    {
-      "name": "METTEORWA",
-      "url": "http://metteorwa.cz/"
     },
     {
       "name": "Kerria a její svět",
@@ -122,10 +118,6 @@
       "url": "http://www.simunci.net/"
     },
     {
-      "name": "Vhrsti",
-      "url": "https://www.vhrsti.cz/"
-    },
-    {
       "name": "Wuwejův zápisník",
       "url": "https://blog.wuwej.net/"
     },
@@ -156,6 +148,10 @@
     {
       "name": "supiceblog.cz",
       "url": "http://supiceblog.cz/"
+    },
+    {
+      "name": "Hančiny Sladkosti.net",
+      "url": "https://www.sladkosti.net/"
     },
     {
       "name": "Blog - Expedice Světu vstříc",
