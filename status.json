@@ -2,10 +2,6 @@
   "successful": 355,
   "failed": [
     {
-      "name": "Rowdy",
-      "url": "https://rowdy.blokuje.cz/"
-    },
-    {
       "name": "Krutomýval",
       "url": "https://www.krutomyval.com/"
     },
@@ -28,10 +24,6 @@
     {
       "name": "Chinin",
       "url": "http://chinin.olmer.cz/"
-    },
-    {
-      "name": "Rozvedená bloguje",
-      "url": "https://rozvedena.blokuje.cz/"
     },
     {
       "name": "a v o c o d e",
@@ -150,6 +142,10 @@
       "url": "http://supiceblog.cz/"
     },
     {
+      "name": "Hančiny Sladkosti.net",
+      "url": "https://www.sladkosti.net/"
+    },
+    {
       "name": "Blog - Expedice Světu vstříc",
       "url": "https://www.svetuvstric.cz/blog"
     },
@@ -168,6 +164,10 @@
     {
       "name": "Hele! Hele? Hele...",
       "url": "http://helehelehele.blogspot.com/"
+    },
+    {
+      "name": "Tarak",
+      "url": "https://www.tarak.cz/"
     },
     {
       "name": "Petr Krest",
