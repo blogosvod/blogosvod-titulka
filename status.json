@@ -1,5 +1,5 @@
 {
-  "successful": 351,
+  "successful": 352,
   "failed": [
     {
       "name": "Rowdy",
@@ -40,10 +40,6 @@
     {
       "name": "Ad Astra",
       "url": "https://maglaiz.cz/"
-    },
-    {
-      "name": "METTEORWA",
-      "url": "http://metteorwa.cz/"
     },
     {
       "name": "Kerria a její svět",
@@ -120,6 +116,10 @@
     {
       "name": "Šimůnci na netu",
       "url": "http://www.simunci.net/"
+    },
+    {
+      "name": "Vhrsti",
+      "url": "https://www.vhrsti.cz/"
     },
     {
       "name": "Wuwejův zápisník",
@@ -200,10 +200,6 @@
     {
       "name": "V Paříži poprvé",
       "url": "https://v-parizi-poprve.blogspot.com/"
-    },
-    {
-      "name": "Žijeme homemade",
-      "url": "https://www.zijemehomemade.cz/"
     },
     {
       "name": "Můj filmový svět",
@@ -342,10 +338,6 @@
       "url": "https://orvokki.sk/"
     },
     {
-      "name": "Berry",
-      "url": "https://berry.commixture.com/"
-    },
-    {
       "name": "Zahrada, květiny a jiné radosti",
       "url": "https://"
     },
@@ -360,6 +352,10 @@
     {
       "name": "strasilkapise.cz",
       "url": "https://strasilkapise.cz/#"
+    },
+    {
+      "name": "eithne.cz",
+      "url": "https://www.eithne.cz/"
     }
   ]
 }
