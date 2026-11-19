@@ -1,5 +1,5 @@
 {
-  "successful": 355,
+  "successful": 354,
   "failed": [
     {
       "name": "Rowdy",
@@ -32,6 +32,10 @@
     {
       "name": "Rozvedená bloguje",
       "url": "https://rozvedena.blokuje.cz/"
+    },
+    {
+      "name": "a v o c o d e",
+      "url": "https://avocode.blokuje.cz/"
     },
     {
       "name": "Ad Astra",
