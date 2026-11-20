@@ -1,5 +1,5 @@
 {
-  "successful": 353,
+  "successful": 355,
   "failed": [
     {
       "name": "Rowdy",
@@ -118,10 +118,6 @@
       "url": "http://www.simunci.net/"
     },
     {
-      "name": "Vhrsti",
-      "url": "https://www.vhrsti.cz/"
-    },
-    {
       "name": "Wuwejův zápisník",
       "url": "https://blog.wuwej.net/"
     },
@@ -152,10 +148,6 @@
     {
       "name": "supiceblog.cz",
       "url": "http://supiceblog.cz/"
-    },
-    {
-      "name": "Hančiny Sladkosti.net",
-      "url": "https://www.sladkosti.net/"
     },
     {
       "name": "Blog - Expedice Světu vstříc",
