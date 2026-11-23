@@ -1,10 +1,6 @@
 {
-  "successful": 352,
+  "successful": 356,
   "failed": [
-    {
-      "name": "Rowdy",
-      "url": "https://rowdy.blokuje.cz/"
-    },
     {
       "name": "Krutomýval",
       "url": "https://www.krutomyval.com/"
@@ -28,14 +24,6 @@
     {
       "name": "Chinin",
       "url": "http://chinin.olmer.cz/"
-    },
-    {
-      "name": "Rozvedená bloguje",
-      "url": "https://rozvedena.blokuje.cz/"
-    },
-    {
-      "name": "a v o c o d e",
-      "url": "https://avocode.blokuje.cz/"
     },
     {
       "name": "Ad Astra",
@@ -116,10 +104,6 @@
     {
       "name": "Šimůnci na netu",
       "url": "http://www.simunci.net/"
-    },
-    {
-      "name": "Vhrsti",
-      "url": "https://www.vhrsti.cz/"
     },
     {
       "name": "Wuwejův zápisník",
